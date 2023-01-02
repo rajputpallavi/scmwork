@@ -1,3 +1,4 @@
 1.	mv and git mv from register
 2.	git rm file name
 3.	Implementing .gitignore
+4. result section
